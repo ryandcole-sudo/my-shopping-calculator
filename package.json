@@ -1,0 +1,24 @@
+{
+  "name": "my-shopping-calculator",
+  "version": "1.0.0",
+  "description": "A shopping calculator that allows you easily add items and calculate the price of a grocery list. Include different categories of items, and add the relevant taxes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryandcole-sudo/my-shopping-calculator.git"
+  },
+  "keywords": [
+    "shopping",
+    "calculator",
+    "grocery"
+  ],
+  "author": "Ryan Cole",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ryandcole-sudo/my-shopping-calculator/issues"
+  },
+  "homepage": "https://github.com/ryandcole-sudo/my-shopping-calculator#readme"
+}
